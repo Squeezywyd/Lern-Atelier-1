@@ -71,13 +71,48 @@ Grob-Planung
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] Mein Projekt zum Würfel erweitern. (Weitere Würfel und verschiedene)
+- [x] Mein Projekt zum Würfel erweitern. (Weitere Würfel und verschiedene) 
+      
+- [x] Das ich mein jetziges Wissen zum Programmieren erweitern kann und dieses auch anwenden kann.
+  
+- [x] Das ich im Modul 431 weiter arbeiten kann.
+  
+- [x] Recherche zu meinem Thema (Theorie) 
+
+Code: 
+
+✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+Ich konnte heute sehr gut arbeiten und auch sehr erfolgreich. Ich bin in meinem Projekt mit dem Würfel schon mega weit bekommen nachdem ich nun mein Wissen aus dem Unterricht von Frau Rieder anwenden konnte. Da habe ich mich vertraut gemacht mit "if" oder "else" usw.. und diese waren mir nun für heute eine grosse Hilfe um weiterzukommen in meinem Würfelprojekt. Ich habe jedoch noch zum Teil die Hilfe von ChatGPT benötigt da ich zum Teil Fehler drin hatte welche ich nicht erkannt habe. Mit der Hilfe jedoch habe ich nun einen vollständingen Code mit welchen man nun auswählen kann zwischen zwei verschieden-seitigen-Würfeln. Ich habe im Verlauf dieses Morgens viel dazu gelernt und es hat mir sehr viel Spass gemacht. 
+Im Modul 431 bin ich auch gut weitergekommen und bin da jetzt auf einem guten Stand.
+
+
+Grob-Planung
+
+✍️ Nael Ackle
+
+✍️ Bis zum 03.10.2023
+
+## Leit-Satz
+
+✍️ Ich möchte mich mit den Grundlagen zum Programmieren auseinandersetzen und diese verstehen können. Ebenfalls möchte ich mich mit dem Umgang von allen neuen Porgrammen vertrauter machen, dass ich diese gut und problemlos bedienen kann. Und in meinem Projekt fortschritte machen.
+
+## Arbeitspakete für 19.09.2023
+
+✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
+
+- [ ] Mein Projekt zum Würfel erweitern.
       
 - [ ] Das ich mein jetziges Wissen zum Programmieren erweitern kann und dieses auch anwenden kann.
   
-- [ ] Das ich im Modul 431 weiter arbeiten kann.
+- [ ] In den Modulen 319 & 431 weiter arbeiten.
   
-- [ ] Recherche zu meinem Thema (Theorie) 
+- [ ] Recherche zu meinem Thema
+
+
+Testfälle:
+| Eingabe | Verarbeitung | Ausgabe |
+  [...]      [...]         [...]
+  | Code in VisualStudio Starten | Würfel anzeigen und Eingabe convertieren | Geworfene Zahl anzeigen |
   
 
 ✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
