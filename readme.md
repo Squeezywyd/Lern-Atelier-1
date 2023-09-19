@@ -124,13 +124,11 @@ Mein fertiger Code:
 
 ## Arbeitspakete für 26.09.2023
 
-- [ ] Weiterarbeiten in Modul 431.
+- [ ] Für Tag 5 weiterarbeiten (LA_1728 etc.) und sonst für vorar Tag 6 vorarbeiten in Modul 431.
 
-- [ ] In Modul 319 nach arbeiten.
+- [ ] In Modul 319 die Arrays nacharbeiten.
 
-- [ ] Ein neues Projekt planen.
-
-- [ ] Mich zu meinem neuen Projekt informieren.
+- [ ] Mich zu meinem neuen Projekt, also dem Voci-Abfrager informieren.
 
 
 ✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
