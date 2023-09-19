@@ -100,13 +100,13 @@ Grob-Planung
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] Mein Projekt zum Würfel erweitern.
+- [x] Mein Projekt zum Würfel erweitern.
       
-- [ ] Das ich mein jetziges Wissen zum Programmieren erweitern kann und dieses auch anwenden kann.
+- [x] Das ich mein jetziges Wissen zum Programmieren erweitern kann und dieses auch anwenden kann.
   
-- [ ] In den Modulen 319 & 431 weiter arbeiten.
+- [x] In den Modulen 319 & 431 weiter arbeiten.
   
-- [ ] Recherche zu meinem Thema
+- [x] Recherche zu meinem Thema
 
 
 Testfälle:
@@ -116,4 +116,25 @@ Testfälle:
   
 
 ✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+Heute habe ich noch nach Fehlern gesucht in meinen Codes und diese durch recherche behoben. Sonst habe ich nicht weirer an meinem Würfelprojekt gearbeitet und dieses ist nun somit abgeschlossen. Sonst habe ich heute hauptsächlich im Modul 319 nachgearbeitet und in Modul 431 habe ich etwas nachgearbeitet und anschliessend noch vorgearbeitet. Die meiste Ziet habe ich also in Modul 431 verbracht, wo ich auch sehr gut vorangekommen bin.
+
+Mein fertiger Code:
+[LernAtelier_WürfelGenerator_AckleNael (2).zip](https://github.com/Squeezywyd/Lern-Atelier-1/files/12657355/LernAtelier_WurfelGenerator_AckleNael.2.zip)
+
+
+## Arbeitspakete für 26.09.2023
+
+- [ ] Weiterarbeiten in Modul 431.
+
+- [ ] In Modul 319 nach arbeiten.
+
+- [ ] Ein neues Projekt planen.
+
+- [ ] Mich zu meinem neuen Projekt informieren.
+
+
+✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+
+
+
 
