@@ -124,14 +124,26 @@ Mein fertiger Code:
 
 ## Arbeitspakete für 26.09.2023
 
-- [ ] Für Tag 5 weiterarbeiten (LA_1728 etc.) und sonst für vorar Tag 6 vorarbeiten in Modul 431.
+- [x] Für Tag 5 weiterarbeiten (LA_1728 etc.) und sonst für vorar Tag 6 vorarbeiten in Modul 431.
 
-- [ ] In Modul 319 die Arrays nacharbeiten.
+- [x] In Modul 319 die Arrays nacharbeiten.
 
-- [ ] Mich zu meinem neuen Projekt, also dem Voci-Abfrager informieren.
+- [x] Mich zu meinem neuen Projekt, also dem Voci-Abfrager informieren.
 
 
 ✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+Heute konnte ich ziemlich gut arbeiten. Ich habe hauptsächlich an meinem Code gearbeitet da es mir heute ziemlich viel Spass gemacht hat. Ich hab schonmal einen Anfang des Codes und bin da sehr gut vorangekommen. Ich konnte ebenfalls die Arrays aus dem Modul 319 nacharbeiten und in Modul 431 habe ich auch noch den Auftrag 1728 und 2 weitere Aufträge abschliessen können.
+
+
+
+## Reflexion
+
+In dieser Lern-Periode hatte ich anfangs etwas Schwierigkeiten mich passend einzufinden, da alles neu war für mich. Jedoch habe ich mich dann ziemlich schnell eingefunden und hatte sehr viel Spass an meiner Arbeit.
+Angefangen hatte ich mit der Planung zum Projekt eines Würfelgenerators in Visualstudio. Ich hatte mir deses Thema ziemlich früh vorgenommen was dazu führte, dass ich das nötige Wissen dazu noch gar nicht hatte. Somit konnte ich nur die Theorie aus dem Modul 319 anschauen aber wirklich anfangen konnte ich damit noch nichts. Deshalb habe ich mir vorgenommen an den Modulen zu arbeiten um nicht zu viel nachholen zu müssen. Gleichzeitig konnte ich mir vorallem auch mit dem Modul 319 weiteres Wissen zum programmieren anschaffen. Das führte dann wiederum dazu dass ich in meinem Würfelgenerator witerarbeiten konnte. Zwischen durch kamen jedoch wieder Aufträge von den Modulen dazwischen weshalb ich dann in diesen weitergearbeutet habe um nicht zurück zu fallen. Als ich im Zeitplan ziemlich gut dabei war habe ich mich sogar noch dazu entschieden ein weiteres Projekt zu machen und zwar ein Programm welches mich mein Englisch-Voci abfragt. Da konnte ich bereits auch schon anfangen und bin ziemlich weit gekommen. 
+Grundsätzlich bin ich also ziemlich zufrieden mit meiner Arbeit in dieser Lern-Periode.
+
+Verbessrungsvorschläge: Ich möchte mir vorhnehmen in der nächsten Lern-Periode, dass ich zum Teil etwas konzentriere arbeite, denn macnhmal lasse ich mich ziemlich leicht ablenken..
+
 
 
 
